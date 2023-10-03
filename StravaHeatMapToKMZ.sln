@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StravaHeatMapToKMZ", "StravaHeatMapToKMZ.csproj", "{80681161-EE92-4F77-9B05-A14FA3352E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80681161-EE92-4F77-9B05-A14FA3352E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80681161-EE92-4F77-9B05-A14FA3352E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80681161-EE92-4F77-9B05-A14FA3352E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80681161-EE92-4F77-9B05-A14FA3352E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F9F187-5642-4A22-8A05-7FC74D657B41}
+	EndGlobalSection
+EndGlobal
